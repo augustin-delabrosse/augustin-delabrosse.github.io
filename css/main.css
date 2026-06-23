@@ -1123,7 +1123,7 @@
   .navbar .navbar-nav > a.btn.dropdown-toggle:focus,
   .show >
   .navbar .navbar-nav > a.btn.dropdown-toggle:hover {
-    background-color: #979797;
+    background-color: #90acc7;
     color: #FFFFFF;
     box-shadow: none; }
   .btn:hover,
@@ -1177,8 +1177,8 @@
     .navbar .navbar-nav > a.btn.btn-simple:focus,
     .navbar .navbar-nav > a.btn.btn-simple:active {
       background-color: transparent;
-      color: #979797;
-      border-color: #979797;
+      color: #90acc7;
+      border-color: #90acc7;
       box-shadow: none; }
   .btn.btn-link,
   .navbar .navbar-nav > a.btn.btn-link {
@@ -1188,7 +1188,7 @@
     .navbar .navbar-nav > a.btn.btn-link:focus,
     .navbar .navbar-nav > a.btn.btn-link:active {
       background-color: transparent;
-      color: #979797;
+      color: #90acc7;
       text-decoration: none;
       box-shadow: none; }
   .btn:hover, .btn:focus,
@@ -1478,7 +1478,7 @@
   .btn-neutral.btn-default {
     color: #90acc7; }
     .btn-neutral.btn-default:hover, .btn-neutral.btn-default:focus, .btn-neutral.btn-default:active {
-      color: #979797; }
+      color: #90acc7; }
   .btn-neutral.active, .btn-neutral:active, .btn-neutral:active:focus, .btn-neutral:active:hover, .btn-neutral.active:focus, .btn-neutral.active:hover,
   .show > .btn-neutral.dropdown-toggle,
   .show > .btn-neutral.dropdown-toggle:focus,
