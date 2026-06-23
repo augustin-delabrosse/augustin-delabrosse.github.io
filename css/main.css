@@ -332,7 +332,7 @@
   border-radius: 3px; }
 
 .noUi-connect {
-  background: ##90acc7;
+  background: #90acc7;
   border-radius: 3px;
   transition: background 450ms; }
 
@@ -1103,7 +1103,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: ##90acc7;
+  background-color: #90acc7;
   color: #FFFFFF; }
   .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
   .show > .btn.dropdown-toggle,
