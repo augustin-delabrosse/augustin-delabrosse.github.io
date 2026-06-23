@@ -1206,12 +1206,6 @@
     box-shadow: none;
     outline: 0 !important; }
   .btn.btn-icon,
-  .btn.btn-icon i.ai-google-scholar {
-	transform: translate(-50%, -50%) !important;
-	top: 50% !important;
-	left: 50% !important;
-	line-height: 1 !important;
-	width: auto !important;}
   .navbar .navbar-nav > a.btn.btn-icon {
     height: 2.375rem;
     min-width: 2.375rem;
