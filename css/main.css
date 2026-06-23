@@ -332,7 +332,7 @@
   border-radius: 3px; }
 
 .noUi-connect {
-  background: #888;
+  background: #90acc7;
   border-radius: 3px;
   transition: background 450ms; }
 
@@ -752,12 +752,12 @@
 
 .datepicker table tr td.old,
 .datepicker table tr td.new {
-  color: #888; }
+  color: 90acc7; }
 
 .datepicker table tr td.disabled,
 .datepicker table tr td.disabled:hover {
   background: none;
-  color: #888;
+  color: 90acc7;
   cursor: default; }
 
 .datepicker table tr td.highlighted {
@@ -971,7 +971,7 @@
 .datepicker table tr td span.disabled,
 .datepicker table tr td span.disabled:hover {
   background: none;
-  color: #888;
+  color: 90acc7;
   cursor: default; }
 
 .datepicker table tr td span.active,
@@ -1016,7 +1016,7 @@
 
 .datepicker table tr td span.old,
 .datepicker table tr td span.new {
-  color: #888; }
+  color: 90acc7; }
 
 .datepicker .datepicker-switch {
   width: auto;
@@ -1103,7 +1103,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #888;
+  background-color: 90acc7;
   color: #FFFFFF; }
   .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
   .show > .btn.dropdown-toggle,
@@ -1166,12 +1166,12 @@
   .navbar .navbar-nav > a.btn:active,
   fieldset[disabled]
   .navbar .navbar-nav > a.btn.active {
-    background-color: #888;
-    border-color: #888; }
+    background-color: 90acc7;
+    border-color: 90acc7; }
   .btn.btn-simple,
   .navbar .navbar-nav > a.btn.btn-simple {
-    color: #888;
-    border-color: #888; }
+    color: 90acc7;
+    border-color: 90acc7; }
     .btn.btn-simple:hover, .btn.btn-simple:focus, .btn.btn-simple:active,
     .navbar .navbar-nav > a.btn.btn-simple:hover,
     .navbar .navbar-nav > a.btn.btn-simple:focus,
@@ -1182,7 +1182,7 @@
       box-shadow: none; }
   .btn.btn-link,
   .navbar .navbar-nav > a.btn.btn-link {
-    color: #888; }
+    color: 90acc7; }
     .btn.btn-link:hover, .btn.btn-link:focus, .btn.btn-link:active,
     .navbar .navbar-nav > a.btn.btn-link:hover,
     .navbar .navbar-nav > a.btn.btn-link:focus,
@@ -1476,7 +1476,7 @@
     .btn-neutral.btn-success:hover, .btn-neutral.btn-success:focus, .btn-neutral.btn-success:active {
       color: #1beb11; }
   .btn-neutral.btn-default {
-    color: #888; }
+    color: 90acc7; }
     .btn-neutral.btn-default:hover, .btn-neutral.btn-default:focus, .btn-neutral.btn-default:active {
       color: #979797; }
   .btn-neutral.active, .btn-neutral:active, .btn-neutral:active:focus, .btn-neutral:active:hover, .btn-neutral.active:focus, .btn-neutral.active:hover,
@@ -1519,7 +1519,7 @@
 
 .btn-simple {
   border: 1px solid;
-  border-color: #888;
+  border-color: 90acc7;
   padding: 10px 22px;
   background-color: transparent; }
 
@@ -1823,7 +1823,7 @@ fieldset[disabled]
 
 .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
   background-color: #E3E3E3;
-  color: #888;
+  color: 90acc7;
   cursor: not-allowed; }
 
 .input-group-btn .btn {
@@ -2012,7 +2012,7 @@ textarea.form-control {
   .progress-container ~ .progress-container {
     margin-top: 15px; }
   .progress-container .progress-badge {
-    color: #888;
+    color: 90acc7;
     font-size: 0.8571em;
     text-transform: uppercase; }
   .progress-container .progress {
@@ -2023,12 +2023,12 @@ textarea.form-control {
     margin-top: 14px; }
     .progress-container .progress .progress-bar {
       box-shadow: none;
-      background-color: #888; }
+      background-color: 90acc7; }
     .progress-container .progress .progress-value {
       position: absolute;
       top: 2px;
       right: 0;
-      color: #888;
+      color: 90acc7;
       font-size: 0.8571em; }
   .progress-container.progress-neutral .progress {
     background: rgba(255, 255, 255, 0.3); }
@@ -2091,8 +2091,8 @@ textarea.form-control {
     font-size: 0.8em; }
 
 .badge-default {
-  border-color: #888;
-  color: #888; }
+  border-color: 90acc7;
+  color: 90acc7; }
 
 .badge-primary {
   border-color: #343752;
@@ -2152,8 +2152,8 @@ textarea.form-control {
   color: #E3E3E3;
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2); }
   .pagination .page-item.active > .page-link, .pagination .page-item.active > .page-link:focus, .pagination .page-item.active > .page-link:hover {
-    background-color: #888;
-    border-color: #888;
+    background-color: 90acc7;
+    border-color: 90acc7;
     color: #FFFFFF; }
 
 .pagination .page-item.disabled > .page-link {
@@ -2294,12 +2294,12 @@ p {
 
 .blockquote {
   border-left: none;
-  border: 1px solid #888;
+  border: 1px solid 90acc7;
   padding: 20px;
   font-size: 1.1em;
   line-height: 1.8; }
   .blockquote small {
-    color: #888;
+    color: 90acc7;
     font-size: 0.8571em;
     text-transform: uppercase; }
   .blockquote.blockquote-primary {
@@ -2365,7 +2365,7 @@ body {
 .separator {
   height: 2px;
   width: 44px;
-  background-color: #888;
+  background-color: 90acc7;
   margin: 20px auto; }
   .separator.separator-primary {
     background-color: #343752; }
@@ -2448,7 +2448,7 @@ body {
   border: 0;
   padding: 15px 0.7rem; }
   .nav-tabs > .nav-item > .nav-link {
-    color: #888;
+    color: 90acc7;
     margin: 0;
     margin-right: 5px;
     background-color: transparent;
@@ -2460,7 +2460,7 @@ body {
     .nav-tabs > .nav-item > .nav-link:hover {
       background-color: transparent; }
     .nav-tabs > .nav-item > .nav-link.active {
-      border: 1px solid #888;
+      border: 1px solid 90acc7;
       border-radius: 30px; }
     .nav-tabs > .nav-item > .nav-link i.now-ui-icons {
       font-size: 14px;
@@ -2580,22 +2580,22 @@ body {
     color: #FFFFFF;
     padding-top: 20px; }
   .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item) {
-    color: #888; }
+    color: 90acc7; }
     .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item).disabled {
       opacity: .5;
-      color: #888; }
+      color: 90acc7; }
   .navbar.bg-white:not(.navbar-transparent) .button-bar {
-    background: #888; }
+    background: 90acc7; }
   .navbar.bg-white:not(.navbar-transparent) .nav-item.active .nav-link:not(.btn),
   .navbar.bg-white:not(.navbar-transparent) .nav-item .nav-link:not(.btn):focus,
   .navbar.bg-white:not(.navbar-transparent) .nav-item .nav-link:not(.btn):hover,
   .navbar.bg-white:not(.navbar-transparent) .nav-item .nav-link:not(.btn):active {
     background-color: rgba(222, 222, 222, 0.3); }
   .navbar.bg-white:not(.navbar-transparent) .logo-container {
-    border: 1px solid #888; }
+    border: 1px solid 90acc7; }
 
 .bg-default {
-  background-color: #888 !important; }
+  background-color: 90acc7 !important; }
 
 .bg-primary {
   background-color: #343752 !important; }
@@ -4008,7 +4008,7 @@ Created using IcoMoon - icomoon.io
   [data-background-color] .separator {
     background-color: #FFFFFF; }
   [data-background-color] .navbar.bg-white p {
-    color: #888; }
+    color: 90acc7; }
   [data-background-color] .description,
   [data-background-color] .social-description p {
     color: rgba(255, 255, 255, 0.8); }
@@ -4209,7 +4209,7 @@ Created using IcoMoon - icomoon.io
       width: 17px;
       transition: width .2s linear; }
   .sidebar-collapse .navbar.bg-white:not(.navbar-transparent) .navbar-toggler-bar {
-    background: #888; }
+    background: 90acc7; }
   .sidebar-collapse .navbar .toggled .navbar-toggler-bar {
     width: 24px; }
     .sidebar-collapse .navbar .toggled .navbar-toggler-bar + .navbar-toggler-bar {
@@ -4435,7 +4435,7 @@ Created using IcoMoon - icomoon.io
       width: 17px;
       transition: width .2s linear; }
   .bootstrap-collapse .navbar.bg-white:not(.navbar-transparent) .navbar-toggler-bar {
-    background: #888; }
+    background: 90acc7; }
   .bootstrap-collapse .navbar .toggled .navbar-toggler-bar {
     width: 24px; }
     .bootstrap-collapse .navbar .toggled .navbar-toggler-bar + .navbar-toggler-bar {
@@ -4692,7 +4692,7 @@ Created using IcoMoon - icomoon.io
       width: 17px;
       transition: width .2s linear; }
   .burger-menu .navbar.bg-white:not(.navbar-transparent) .navbar-toggler-bar {
-    background: #888; }
+    background: 90acc7; }
   .burger-menu .navbar .toggled .navbar-toggler-bar {
     width: 24px; }
     .burger-menu .navbar .toggled .navbar-toggler-bar + .navbar-toggler-bar {
